@@ -1,3 +1,4 @@
 Docker*
 *.md
 notMNIST*
+.ipynb_checkpoints/*
